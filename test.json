@@ -1,9 +1,11 @@
 {
   "name": "input",
+  "type": "registry:block",
   "files": [
     {
       "path": "shop-ui/input.tsx",
       "content": "Hello",
+      "type": "registry:block",
       "target": ""
     }
   ]
