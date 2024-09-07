@@ -1,0 +1,13 @@
+{
+  "name": "button-css",
+  "type": "registry:ui",
+  "dependencies": ["@radix-ui/react-slot"],
+  "files": [
+    {
+      "path": "ui/button.module.css",
+      "content": ".root {}\n",
+      "type": "registry:ui",
+      "target": ""
+    }
+  ]
+}
