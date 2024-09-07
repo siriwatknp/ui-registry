@@ -1,0 +1,6 @@
+{
+  "name": "block",
+  "type": "registry:block",
+  "registryDependencies": ["https://raw.githubusercontent.com/siriwatknp/ui-registry/main/test.json"],
+  "files": [{ "path": "shop-ui/block.tsx", "content": "Hey!" }]
+}
